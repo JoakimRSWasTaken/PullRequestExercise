@@ -1,2 +1,8 @@
 Hold nu op med den terminal der
 >:(
+
+Jeg spammer
+tekst
+for at
+lave
+merge conflicts
